@@ -18,6 +18,7 @@ function App() {
           <Route path="/emergency" element={<Emergency />} />
         </Routes>
         <Footer />
+        
       </div>
     </Router>
   );
